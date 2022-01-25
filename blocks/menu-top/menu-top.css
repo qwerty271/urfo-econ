@@ -1,0 +1,27 @@
+.menu-top {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  height: 101px;
+}
+
+.menu-top__logo {
+  margin: 0 72px 0 77px;
+}
+
+.menu-top__input {
+  padding-left: 66px;
+  border: none;
+  background: #f7f7f7 url(../../images/loupe-icon.svg) no-repeat 31px 18px;
+  margin-right: 67px;
+  height: 54px;
+  width: 851px;
+}
+
+.menu-top__input:focus {
+  outline: none;
+}
+.menu-top__icon:nth-of-type(4) {
+  margin: 0 32px;
+}
