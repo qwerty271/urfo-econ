@@ -1,0 +1,26 @@
+.location {
+  width: 1521px;
+  margin: 46px auto 58px;
+}
+
+.location__main {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 19px;
+  color: #858a93;
+  margin: 0 auto 65px;
+}
+
+.location__route {
+  color: #2b2e34;
+}
+
+.location__title {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 53px;
+  color: #2b2e34;
+  margin: 0;
+}

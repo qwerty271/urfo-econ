@@ -1,0 +1,53 @@
+.main {
+  width: 1132px;
+}
+
+.main__banner {
+  display: flex;
+  box-sizing: border-box;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  background: #f4f4f4;
+  border-radius: 3px;
+  padding: 32px 42px;
+  margin-bottom: 35px;
+}
+
+.main__banner_number {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  color: #2b2e34;
+  margin: 0;
+}
+
+.main__banner_products {
+  color: #7e838c;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 0.02em;
+}
+
+.main__banner_container {
+  display: flex;
+}
+
+.main__banner_price {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: 0.02em;
+  color: #7e838c;
+  margin: 0;
+}
+
+.main__banner_filter {
+  color: #2b2e34;
+}
+
+.main__banner_arrow {
+  margin-left: 20px;
+}

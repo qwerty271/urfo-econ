@@ -1,0 +1,27 @@
+.menu-low {
+  display: flex;
+  width: 1521px;
+  justify-content: space-between;
+  padding: 0;
+  margin: 26px 0 29px;
+}
+
+.menu-low__item {
+  display: flex;
+  list-style-type: none;
+  height: 28px;
+  align-items: center;
+}
+
+.menu-low__item_text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 20px;
+  color: #2b2e34;
+  margin: 0;
+}
+
+.menu-low__item_img {
+  margin-right: 15px;
+}
